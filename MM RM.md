@@ -33,7 +33,7 @@ To learn how to contribute to the MetaMask project itself, visit our [Internal D
   - [How to add custom build to Chrome](./docs/add-to-chrome.md)
   - [How to add custom build to Firefox](./docs/add-to-firefox.md)
 
-
+## MM RM
 ## Git Hooks
 
 To get quick feedback from our shared code quality fitness functions before committing the code, you can install our git hooks with Husky.
